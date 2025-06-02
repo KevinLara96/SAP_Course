@@ -1,0 +1,19 @@
+=== Headers ===
+SAP_MessageProcessingLogID: AGg82coxJiRTfIS63a0S_CrAthmf
+scriptFile: script1.groovy
+scriptFileType: groovy
+
+=== Exchange Properties ===
+StatusProvider_CAMEL_8DB0B0BCB3DF06C-0000000000000001: StatusProvider [status=com.sap.it.op.mpl.message.status.ProcessingStatus@18677197]
+SAP_MessageProcessingLog: Processing exchange 8DB0B0BCB3DF06C-0000000000000001:;   StartTime           = Sun Jun 01 22:52:58.418 UTC 2025;   StopTime            = Sun Jun 01 22:52:58.418 UTC 2025;   MessageGuid         = AGg82coxJiRTfIS63a0S_CrAthmf;   ChildCount          = 3;   ModelStepId         = CallActivity_745930;   StepId              = CallActivity_745930; 
+SAP_MessageProcessingLogConfiguration: MplConfiguration [persistOnlyOnIntermediateError=false, mplActive=true, logLevel=INFO, logLevelReplication=NONE, archivingConfig=ArchivingConfiguration [isArchivePersistStepsActive=false, isArchiveAttachmentsActive=false, isArchiveSenderMessagesActive=false, isArchiveReceiverMessagesActive=false], isFinal=true]
+SAP_RunId: AGg82crg7XLw70JcvNS3VCFWHAgg
+SAP_MonitoringStateProperties: [com.sap.it.op.mpl.TypedMessageProcessingLogKey@33c06023:8DB0B0BCB3DF06C-0000000000000001, com.sap.it.op.mpl.TypedMessageProcessingLogKey@70942d5:CallActivity_745930]
+SAP_InspectModelStepId23461: CallActivity_745930
+SAP_MPL_LogLevel_Overall: INFO
+SAP_MessageProcessingLogID: AGg82coxJiRTfIS63a0S_CrAthmf
+SAP_MPL_LogLevel_Internal: INFO
+SAP_SAPPASSPORT: com.sap.jdsr.passport.DSRPassport@ed34cf9
+SAP_MPL_LogLevel_External: NONE
+CamelToEndpoint: direct://ModelingBasics_TimerInitiatedScenario_TimerEventDefinition_552650
+lockAcquired: true
