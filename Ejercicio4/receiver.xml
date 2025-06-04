@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<agenda>
+    <person id="123" alias="Juancho!!" email= juan.perez@example.com birthdate="01/05/2010">
+        <full_name>Juan Pérez Gómez</full_name>
+        <phone_list>
+            <item type="movil" number="+5215512345678" />
+            <item type="movil" number="+521555678123" />
+        </phone_list>
+        <address_list>
+            <item type="casa">Av. Reforma 123, Ciudad de México,CDMX, CP 01234</item>
+            <item type="trabajo">Calle Insurgentes 456 Ciudad de México,CDMX, CP 56789</item>
+        </address_list>
+    </person>
+</agenda>

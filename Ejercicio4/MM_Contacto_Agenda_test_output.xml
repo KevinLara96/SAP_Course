@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><MT_Agenda1><agenda><person alias="Juancho!!" birthdate="1985-10-15" email="juan.perez@example.com" id="123"><phone_list><item type="movil">+5215512345678</item><item type="casa">+5215556781234</item></phone_list><adress_list><item type="casa">
+
+                        Av. Reforma 123, Ciudad de México,CDMX, CP 01234
+
+                    </item><item type="trabajo">
+
+                        Calle Insurgentes 456 Ciudad de México,CDMX, CP 56789
+
+                    </item></adress_list><full_name>Juan Pérez Gómez</full_name></person></agenda></MT_Agenda1>

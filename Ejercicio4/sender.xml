@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MT_Contacto1>
+    <Contactos>
+        <Contacto>
+            <InformacionPersonal>
+                <id>123</id>
+                <alias>Juancho!!</alias>
+                <Nombre>Juan</Nombre>
+                <Apellidos>Pérez Gómez</Apellidos>
+                <FechaRegistro>2024-05-21</FechaRegistro>
+                <FechaNacimiento>1985-10-15</FechaNacimiento>
+                <CorreoElectronico>juan.perez@example.com</CorreoElectronico>
+            </InformacionPersonal>
+            <InformacionContacto>
+                <Telefonos>
+                    <Telefono tipo="movil">+5215512345678</Telefono>
+                    <Telefono tipo="casa">+5215556781234</Telefono>
+                </Telefonos>
+                <Direcciones>
+                    <Direccion tipo="casa">
+
+                        Av. Reforma 123, Ciudad de México,CDMX, CP 01234
+
+                    </Direccion>
+                    <Direccion tipo="trabajo">
+
+                        Calle Insurgentes 456 Ciudad de México,CDMX, CP 56789
+
+                    </Direccion>
+                </Direcciones>
+            </InformacionContacto>
+        </Contacto>
+        <!-- Puedes agregar más contactos aquí -->
+    </Contactos>
+</MT_Contacto1>
